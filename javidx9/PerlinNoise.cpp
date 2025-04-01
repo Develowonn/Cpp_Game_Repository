@@ -30,7 +30,7 @@ private:
 	// 1D Noise variables
 	float* fNoiseSeed1D   = nullptr; // 노이즈 시드 값
 	float* fPerlinNoise1D = nullptr; // PerlinNoise 값 저장 
-	int	   nOutputSize = 256;     // 출력될 데이터 크기
+	int    nOutputSize = 256;     // 출력될 데이터 크기
 
 	// ETC
 	int    nOctaveCount = 1;
