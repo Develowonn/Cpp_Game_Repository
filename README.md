@@ -8,4 +8,9 @@
     1. 펄린 노이즈 (Perlin Noise)
     - 자연스러운 텍스처 및 지형 생성을 위한 펄린 노이즈 알고리즘의 시각화를 구현합니다.
 
+## 사용법
+1. Visual Studio Project에 라이브러리와 소스코드를 등록시킨다
+2. Visual Studio Project -> 프로젝트 -> 속성 -> 링커 -> 하위시스템 콘솔로 변경
+3. Visual Studio Project -> 프로젝트 -> 속성 -> C++ -> 모든옵션 -> ISO C++17 표준(/std:c++17)로 변경 
+
 ---
