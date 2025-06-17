@@ -17,4 +17,9 @@
 ---------------------------------------------------------------------------------------------------------
 ### - [Raylib](https://github.com/raysan5/raylib) 라이브러리를 활용하여 다양한 프로젝트를 진행하고 있습니다.]
 
-세팅 참고 영상 - https://www.youtube.com/watch?v=O96m52ZxQcw
+    1. A 와 B 간의 충돌 감 연습 
+    - Raylib 를 활용하여 두 객체 간 충돌 감지 로직을 구현하고 학습한다.
+    - 학습 참고 영상 : https://www.youtube.com/watch?v=q5Y5u1c7qR0&list=PLwR6ZGPvjVOSRywn9VCQ3yrRVruxzzuo9&index=14
+
+## 사용 관련 참고
+https://www.youtube.com/watch?v=O96m52ZxQcw
