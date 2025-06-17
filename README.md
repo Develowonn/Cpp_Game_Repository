@@ -13,6 +13,8 @@
 2. Visual Studio Project -> 프로젝트 -> 속성 -> 링커 -> 하위시스템 콘솔로 변경
 3. Visual Studio Project -> 프로젝트 -> 속성 -> C++ -> 모든옵션 -> ISO C++17 표준(/std:c++17)로 변경
 
+
+--
 ### - [Raylib](https://github.com/raysan5/raylib) 라이브러리를 활용하여 다양한 프로젝트를 진행하고 있습니다.]
 
 세팅 참고 영상 - https://www.youtube.com/watch?v=O96m52ZxQcw
